@@ -1,0 +1,2 @@
+moduledir 'a_b_c_modules'
+mod 'puppetlabs/stdlib', '4.6.0'

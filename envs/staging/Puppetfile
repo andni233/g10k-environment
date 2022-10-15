@@ -1,0 +1,2 @@
+moduledir 'staging_modules'
+mod 'puppetlabs/stdlib', '4.6.0'
